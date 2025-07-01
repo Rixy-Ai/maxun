@@ -9,20 +9,7 @@
 
 <p align="center">
 Uproot lets you train a robot in 2 minutes and scrape the web on auto-pilot. Web data extraction doesn't get easier than this!
-</p>
 
-
-<p align="center">
-    <a href="https://app.Uproot.dev/?ref=ghread"><b>Go To App</b></a> |
-    <a href="https://docs.Uproot.dev/?ref=ghread"><b>Documentation</b></a> |
-    <a href="https://www.Uproot.dev/?ref=ghread"><b>Website</b></a> |
-    <a href="https://discord.gg/5GbPjBUkws"><b>Discord</b></a> |
-    <a href="https://x.com/Uproot_io?ref=ghread"><b>Twitter</b></a> |
-    <a href="https://www.youtube.com/@UprootOSS?ref=ghread"><b>Watch Tutorials</b></a>
-    <br />
-    <br />
-<a href="https://trendshift.io/repositories/12113" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12113" alt="getUproot%2FUproot | Trendshift" style="width: 250px; height: 55px; margin-top: 10px;" width="250" height="55"/></a>
-</p>
 
 ![Uproot_demo](https://github.com/user-attachments/assets/a61ba670-e56a-4ae1-9681-0b4bd6ba9cdc)
 
